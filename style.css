@@ -1,16 +1,22 @@
-<style>
 h2{
 color:white;
 background-color:brown;
 margin-left:50px;
 font-size:25
 }
-</style>
 
-<style>
+h1{
+  color:brown;
+  background-color: orange;
+
+}
+body{
+  font-family:helvetica;
+  background-image: image("bg.jpg");
+}
+
 a{
 color:red;
 margin-left:20px;
 font-weight:bold
 }
-</style>
